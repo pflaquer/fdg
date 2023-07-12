@@ -36,8 +36,8 @@ h1 {
   font-size: 5vw;
   line-height: 1em;
   font-weight: 900;
-  background: linear-gradient(black, blue);
   opacity: 0.9;
+  color: white;
 }
 
 .nav-title {
