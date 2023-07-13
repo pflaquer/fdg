@@ -200,7 +200,7 @@ a {
 
 .gradient-overlay {
   bottom: 0;
-  height: 50%;
+  height: 10%;
   background: -moz-linear-gradient(top, rgba(33, 33, 33, 0) 0%, #212121 50%);
   background: -webkit-linear-gradient(top, rgba(33, 33, 33, 0) 0%, #212121 50%);
   background: linear-gradient(to bottom, rgba(33, 33, 33, 0) 0%, #212121 50%);
