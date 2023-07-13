@@ -203,7 +203,7 @@ a {
   height: 50%;
   background: -moz-linear-gradient(top, rgba(33, 33, 33, 0) 0%, #212121 10%);
   background: -webkit-linear-gradient(top, rgba(33, 33, 33, 0) 0%, #212121 10%);
-  background: linear-gradient(to bottom, rgba(33, 33, 33, 0) 0%, #212121 0%);
+  background: linear-gradient(to bottom, rgba(33, 33, 33, 0) 0%, #212121 10%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#00212121", endColorstr="#212121",GradientType=0 );
   z-index: 1;
   border-bottom-right-radius: 15vw;
